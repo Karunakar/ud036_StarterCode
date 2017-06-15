@@ -1,0 +1,45 @@
+{
+    "movies": [
+        {
+            "title":"Troy",
+            "duration":"3 hours",
+            "trailer_youtube_url":"https://www.youtube.com/watch?v=znTLzRJimeY",
+            "poster_image_url":"https://s-media-cache-ak0.pinimg.com/originals/6c/b4/86/6cb486900a8446c082679768e08b7477.jpg",
+            "storyline":""
+            
+        },
+        {
+            "title":"Katamrayudu",
+            "duration":"2 hrs",
+            "trailer_youtube_url":"https://www.youtube.com/watch?v=ooQaQo9zqfQ",
+            "poster_image_url":"https://i2.wp.com/www.backbenz.com/wp-content/uploads/2016/09/Katamarayudu-New-Look-5.jpg?resize=640%2C302&ssl=1",
+            "storyline":"Katamrayudu is kindg story and how he fight aganist bad guys"
+            
+        },
+        {
+            "title":"Gabber singh",
+            "duration":"2 hrs",
+            "trailer_youtube_url":"https://www.youtube.com/watch?v=FpFoQPj4sgs",
+            "poster_image_url":"http://content.gulte.com/content/2012/05/photos/movies/Gabbar%20Singh%20New%20Posters/normal/Gabbar%20Singh%20New%20Posters_26.jpg",
+            "storyline":"The film is about a police cop who renamed himself as Gabbar Singh after the famous villain in Sholay revolting against a dreaded goon"
+            
+        },
+        {
+            "title":"Janatha Garage",
+            "duration":"Shiva, the son of Bahubali, begins to search for answers after he learns about his heritag",
+            "trailer_youtube_url":"https://www.youtube.com/watch?v=7O4Hm070Bc8",
+            "poster_image_url":"http://media2.intoday.in/indiatoday/images/stories/647_090316085943.jpg",
+            "storyline":""
+            
+        },
+        {
+            "title":"Seethamma Vakitlo Sirimalle Chettu",
+            "duration":"2 hrs",
+            "trailer_youtube_url":"https://www.youtube.com/watch?v=8-fsOSq-_Mw",
+            "poster_image_url":"https://upload.wikimedia.org/wikipedia/en/b/b4/SVSC_Poster.jpg",
+            "storyline":"The film focuses on a simple, middle-class family in the village of Relangi whose head is a Good Samaritan with a positive outlook on life"
+            
+        }
+    ]
+}
+
