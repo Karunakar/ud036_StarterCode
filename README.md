@@ -3,7 +3,8 @@ Source code for a Movie Trailer website.
 
 # Instalation
 
-Instalation Python
+##Install Python
+ Install Python 2X version and Please see [Python Documentation](https://www.python.org/downloads/) for installing python
 
 ```python
     git clone https://github.com/Karunakar/ud036_StarterCode
