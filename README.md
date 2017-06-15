@@ -10,7 +10,23 @@ Source code for a Movie Trailer website.
     git clone https://github.com/Karunakar/ud036_StarterCode
     cd ud036_StarterCode
     python show_movies_on_browser.py
+
 ```
+
+#### movies_list.json
+
+Below is the structre of a movie json.
+
+```
+{
+    "title":"Movie Title",
+    "duration":"Duration in Hours and Minutes eg. 2 hrs 30 mins.",
+    "trailer_youtube_url":"Youtube Trailer URL",
+    "poster_image_url":"Poster URL",
+    "storyline":"Story line of the movie"
+}
+```
+
 
 ### License
 
